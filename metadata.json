@@ -1,0 +1,6 @@
+{
+  "name": "Юрист в кармане — ЖК Прогресс",
+  "description": "Официальные претензии в управляющую компанию ООО «ДУКК», контроль срока ответа 10 рабочих дней и юридический справочник собственника для iOS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
